@@ -69,4 +69,4 @@ JDK 11 o superior
 
 📝 Notas
 Asegúrate de compilar cada archivo .java en la estructura de carpetas correcta. Para ejecutar Main.java, debes tener todas las clases en su paquete correspondiente.
-![img.png](img.png)
+![img.png](src/main/java/img.png)
